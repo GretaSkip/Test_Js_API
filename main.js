@@ -1,4 +1,4 @@
-console.log('hello')
+
 
 renderTable('https://jsonplaceholder.typicode.com/users', 'tab1', ["table,ol,ul"]);
 
